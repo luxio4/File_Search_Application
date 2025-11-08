@@ -1,0 +1,10 @@
+# For PDF handling
+PyPDF2==3.0.1
+
+# For Excel handling
+pandas==1.5.3
+openpyxl==3.0.10
+
+# For HTML parsing
+beautifulsoup4==4.11.1
+lxml==4.9.3
